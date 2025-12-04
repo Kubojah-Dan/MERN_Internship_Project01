@@ -93,10 +93,10 @@ npm run dev
 | Day | Topic | Status |
 |-----|--------|---------|
 | 1 | MERN Overview | ✅ Completed |
-| 2 | HTML5 | ⬜ To Do |
-| 3 | CSS3 + Tailwind | ⬜ To Do |
-| 4 | JavaScript Fundamentals | ⬜ To Do |
-| 5 | Modern JS (ES6+) | ⬜ To Do |
+| 2 | HTML5 | ✅ Completed |
+| 3 | CSS3 + Tailwind | ✅ Completed |
+| 4 | JavaScript Fundamentals | ✅ Completed |
+| 5 | Modern JS (ES6+) | ✅ Completed |
 | 6 | React Components | ⬜ To Do |
 | 7 | Hooks & State Mgmt | ⬜ To Do |
 | 8 | Routing & Forms | ⬜ To Do |
