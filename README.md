@@ -97,23 +97,23 @@ npm run dev
 | 3 | CSS3 + Tailwind | ✅ Completed |
 | 4 | JavaScript Fundamentals | ✅ Completed |
 | 5 | Modern JS (ES6+) | ✅ Completed |
-| 6 | React Components | ⬜ To Do |
-| 7 | Hooks & State Mgmt | ⬜ To Do |
-| 8 | Routing & Forms | ⬜ To Do |
+| 6 | React Components | ✅ Completed |
+| 7 | Hooks & State Mgmt | ✅ Completed |
+| 8 | Routing & Forms | ✅ Completed |
 
 ### Phase 2: Backend (Days 9–11)
 
 | Day | Topic | Status |
 |-----|--------|---------|
-| 9 | Node.js & Express | ⬜ To Do |
-| 10 | MongoDB & Mongoose | ⬜ To Do |
-| 11 | Authentication & Security | ⬜ To Do |
+| 9 | Node.js & Express | ✅ Completed |
+| 10 | MongoDB & Mongoose | ✅ Completed |
+| 11 | Authentication & Security | ✅ Completed |
 
 ### Phase 3: Deployment (Days 12–16)
 
 | Day | Topic | Status |
 |-----|--------|---------|
-| 12 | Cloud Concepts | ⬜ To Do |
+| 12 | Cloud Concepts | ✅ Completed |
 | 13 | AWS EC2 Deployment | ⬜ To Do |
 | 14 | AWS S3 & CloudFront | ⬜ To Do |
 | 15 | CI/CD | ⬜ To Do |
